@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+		
+		.jumbotron {margin-top: 10px;
+		background-color: #4581A8;
+		font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+		color: white;
+		text-align: center;
+		background-image: url(../images/JUMBO%20BANNER.jpg)}
+		
+		
+		.navbar {
+		margin-top: 10px;
+		background-color: #5899A4;
+		color: white;
+		font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;}
+		
+		* {font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;}
+		
+		.carousel-inner {background-color: #5899A4;
+		text-align: center;
+		color: white;}
+		
+		.carousel-indicators {text-align: left;}
+		
+		.aboutmetext {text-align: left;
+		width: 900px;
+		}
+		
+		.listskills {list-style: none;
+		text-align: left;}
+		
+ 		.row of videos {margin: 10px;}
+		
+		.carousel-inner > .item > img, .carousel-inner > .item > a > img
+		{width: 100%;
+		 height: 10%;}
+		 
+		 .profileimage {
+	     border-radius: 15px 50px;
+         background: #5899A4;
+         padding: 10px;}
+		 
+		 .formblocks {
+  display: block;
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;}
+	
+ 
